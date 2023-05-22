@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "501785342534",
+    "project_id": "pfehou",
+    "storage_bucket": "pfehou.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501785342534:android:08abca284615609f7dd047",
+        "android_client_info": {
+          "package_name": "Pfe.HOU.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501785342534-o9gu809293l19phun40fbo5eipmnohpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Pfe.HOU.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "501785342534-lom2jus0cja3r33fdmn415krs11ncsi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV71LRB6rEVU5WHD29LSdRV51SJBRkk_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501785342534-lom2jus0cja3r33fdmn415krs11ncsi9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "501785342534-c65hvfshv9qq6o3ju88r22d95h1eji05.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Pfe.HOU.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501785342534:android:c6996d46455b66a67dd047",
+        "android_client_info": {
+          "package_name": "kaleo.chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501785342534-lom2jus0cja3r33fdmn415krs11ncsi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV71LRB6rEVU5WHD29LSdRV51SJBRkk_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501785342534-lom2jus0cja3r33fdmn415krs11ncsi9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "501785342534-c65hvfshv9qq6o3ju88r22d95h1eji05.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Pfe.HOU.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

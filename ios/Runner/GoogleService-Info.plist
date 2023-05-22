@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>501785342534-c65hvfshv9qq6o3ju88r22d95h1eji05.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.501785342534-c65hvfshv9qq6o3ju88r22d95h1eji05</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>501785342534-o9gu809293l19phun40fbo5eipmnohpt.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDRD2G_LCQaSdz1PwtcGELFMbjlGDCJTAw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>501785342534</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Pfe.HOU.app</string>
+	<key>PROJECT_ID</key>
+	<string>pfehou</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pfehou.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:501785342534:ios:2539814d8d54342c7dd047</string>
+</dict>
+</plist>
